@@ -13,6 +13,7 @@ Graphs edges between each number a, b such that
 
 ## results
 
-<img src="" alt="First result of using graphviz to draw point-cloud like graphs" />
+<img src="http://www.stephenbalaban.com/wp-content/uploads/2012/06/out_random_sm.png" alt="First result of using graphviz to draw point-cloud like graphs" />
 
-<img src="" alt="Second result of using graphviz to draw points with edges" />
+<img
+src="http://www.stephenbalaban.com/wp-content/uploads/2012/06/out_10000-5_zoomed1-300x300.png" alt="Second result of using graphviz to draw points with edges" />
